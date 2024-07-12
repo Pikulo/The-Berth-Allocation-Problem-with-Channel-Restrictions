@@ -1,0 +1,195 @@
+T9R1X
+problem1  256.170
+problem2  295.772
+problem3  303.434
+problem4  435.232
+problem5  188.056
+problem6  408.597
+problem7  339.311
+problem8  293.180
+problem9  289.325
+problem10 295.319
+
+
+T9R2X
+problem1  1968.400
+problem2  1373.790
+problem3  1384.520
+problem4  1782.900
+problem5  1200.200
+problem6  1809.690
+problem7  1804.540
+problem8  1491.090
+problem9  1835.390
+problem10 1784.840
+
+
+T9R3X
+problem1  2965.210
+problem2  4425.830
+problem3  3195.310
+problem4  4515.740
+problem5  4124.060
+problem6  4232.460
+problem7  5082.630
+problem8  3762.550
+problem9  4098.210
+problem10 3419.610
+
+
+T9R4X
+problem1  801.703
+problem2  608.548
+problem3  753.953
+problem4  634.530
+problem5  711.337
+problem6  1073.430
+problem7  636.927
+problem8  574.462
+problem9  1107.550
+problem10 826.419
+
+
+T9R5X
+problem1  1934.390
+problem2  2415.450
+problem3  1859.120
+problem4  2695.400
+problem5  1657.630
+problem6  2908.920
+problem7  2127.850
+problem8  1879.440
+problem9  2501.880
+problem10 1592.710
+
+
+T9R6X
+problem1  320.196
+problem2  246.707
+problem3  379.475
+problem4  341.451
+problem5  286.268
+problem6  453.383
+problem7  277.306
+problem8  238.287
+problem9  328.057
+problem10 334.961
+
+
+T9R7X
+problem1  1878.870
+problem2  2153.090
+problem3  1811.120
+problem4  1577.460
+problem5  2073.420
+problem6  1659.910
+problem7  2037.540
+problem8  1794.020
+problem9  2013.330
+problem10 2119.980
+
+
+T9R8X
+problem1  3622.480
+problem2  4583.120
+problem3  3923.120
+problem4  4039.600
+problem5  5213.480
+problem6  4899.230
+problem7  4468.390
+problem8  5607.050
+problem9  4169.860
+problem10 4123.910
+
+
+T9R9X
+problem1  571.199
+problem2  757.469
+problem3  705.552
+problem4  741.587
+problem5  1010.790
+problem6  1023.440
+problem7  785.797
+problem8  665.848
+problem9  838.690
+problem10 885.812
+
+
+T9R10X
+problem1  2806.900
+problem2  2421.090
+problem3  2348.540
+problem4  2025.660
+problem5  1971.260
+problem6  2429.730
+problem7  1744.220
+problem8  1885.770
+problem9  1923.200
+problem10 2060.920
+
+
+T9R11X
+problem1  410.079
+problem2  273.436
+problem3  196.816
+problem4  276.276
+problem5  291.095
+problem6  394.597
+problem7  260.173
+problem8  277.443
+problem9  205.519
+problem10 115.421
+
+
+T9R12X
+problem1  1993.000
+problem2  1654.200
+problem3  1346.260
+problem4  1618.110
+problem5  1796.030
+problem6  1676.310
+problem7  1514.550
+problem8  1479.870
+problem9  1580.180
+problem10 1539.760
+
+
+T9R13X
+problem1  4613.190
+problem2  4508.960
+problem3  4295.190
+problem4  2736.220
+problem5  3896.940
+problem6  4032.010
+problem7  3903.290
+problem8  3392.210
+problem9  3791.830
+problem10 3302.510
+
+
+T9R14X
+problem1  893.328
+problem2  526.360
+problem3  747.473
+problem4  958.352
+problem5  883.332
+problem6  624.129
+problem7  731.773
+problem8  584.960
+problem9  872.638
+problem10 736.509
+
+
+T9R15X
+problem1  1609.260
+problem2  1834.230
+problem3  2484.560
+problem4  1992.680
+problem5  1598.790
+problem6  2279.780
+problem7  1903.810
+problem8  2245.230
+problem9  2549.030
+problem10 1683.860
+
+

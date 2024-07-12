@@ -1,0 +1,195 @@
+T6R1X
+problem1  256.170
+problem2  295.772
+problem3  303.434
+problem4  435.232
+problem5  188.056
+problem6  408.597
+problem7  339.311
+problem8  293.180
+problem9  289.325
+problem10 295.319
+
+
+T6R2X
+problem1  1968.400
+problem2  1373.790
+problem3  1384.520
+problem4  1782.900
+problem5  1200.200
+problem6  1809.690
+problem7  1804.540
+problem8  1491.090
+problem9  1835.390
+problem10 1784.840
+
+
+T6R3X
+problem1  2965.210
+problem2  4425.830
+problem3  3195.310
+problem4  4515.740
+problem5  4124.060
+problem6  4232.460
+problem7  5082.630
+problem8  3762.550
+problem9  4098.210
+problem10 3419.610
+
+
+T6R4X
+problem1  801.703
+problem2  608.548
+problem3  753.953
+problem4  634.530
+problem5  711.337
+problem6  1073.430
+problem7  636.927
+problem8  574.462
+problem9  1107.550
+problem10 826.419
+
+
+T6R5X
+problem1  1934.390
+problem2  2415.450
+problem3  1859.120
+problem4  2695.400
+problem5  1657.630
+problem6  2908.920
+problem7  2127.850
+problem8  1879.440
+problem9  2501.880
+problem10 1592.710
+
+
+T6R6X
+problem1  408.208
+problem2  377.786
+problem3  410.178
+problem4  465.834
+problem5  545.795
+problem6  342.523
+problem7  423.083
+problem8  295.241
+problem9  386.758
+problem10 459.738
+
+
+T6R7X
+problem1  2110.580
+problem2  2379.870
+problem3  2368.720
+problem4  2496.270
+problem5  2261.450
+problem6  2096.990
+problem7  2450.080
+problem8  2337.150
+problem9  2376.310
+problem10 2024.940
+
+
+T6R8X
+problem1  5202.130
+problem2  5130.610
+problem3  5658.440
+problem4  5963.580
+problem5  5535.060
+problem6  4732.600
+problem7  5673.720
+problem8  4983.910
+problem9  5605.620
+problem10 5411.900
+
+
+T6R9X
+problem1  900.884
+problem2  978.724
+problem3  916.381
+problem4  1068.500
+problem5  1068.750
+problem6  694.509
+problem7  919.856
+problem8  991.890
+problem9  992.083
+problem10 984.665
+
+
+T6R10X
+problem1  2958.460
+problem2  2664.930
+problem3  2645.070
+problem4  2359.440
+problem5  2673.920
+problem6  2146.930
+problem7  3172.360
+problem8  2426.110
+problem9  3366.220
+problem10 2392.270
+
+
+T6R11X
+problem1  431.451
+problem2  339.552
+problem3  408.672
+problem4  427.935
+problem5  307.812
+problem6  402.854
+problem7  390.697
+problem8  468.968
+problem9  397.964
+problem10 427.272
+
+
+T6R12X
+problem1  2082.300
+problem2  3199.380
+problem3  2388.180
+problem4  2557.710
+problem5  2381.870
+problem6  2626.170
+problem7  2745.890
+problem8  2247.170
+problem9  2274.720
+problem10 2419.630
+
+
+T6R13X
+problem1  6091.830
+problem2  6381.780
+problem3  6147.360
+problem4  5917.620
+problem5  5978.370
+problem6  7257.970
+problem7  5839.160
+problem8  5886.760
+problem9  6070.080
+problem10 6073.960
+
+
+T6R14X
+problem1  913.963
+problem2  842.530
+problem3  1148.090
+problem4  825.043
+problem5  1017.130
+problem6  834.262
+problem7  1052.060
+problem8  866.042
+problem9  1084.710
+problem10 1199.910
+
+
+T6R15X
+problem1  3060.720
+problem2  2673.590
+problem3  2831.290
+problem4  2794.110
+problem5  2546.880
+problem6  2633.880
+problem7  2621.190
+problem8  3068.230
+problem9  2663.440
+problem10 2748.860
+
+

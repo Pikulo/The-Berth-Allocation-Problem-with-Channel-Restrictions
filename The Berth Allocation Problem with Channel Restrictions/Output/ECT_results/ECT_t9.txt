@@ -1,0 +1,225 @@
+T9R1
+航段数(不包含泊位) 2
+船舶数量： 10
+problem0  256.1695
+problem1  295.7720
+problem2  303.4340
+problem3  435.2315
+problem4  188.0561
+problem5  408.5979
+problem6  339.3114
+problem7  293.1803
+problem8  289.3246
+problem9  295.3193
+
+
+T9R2
+航段数(不包含泊位) 2
+船舶数量： 20
+problem0  1968.4022
+problem1  1373.7839
+problem2  1256.5579
+problem3  1782.9043
+problem4  1200.4520
+problem5  1810.1549
+problem6  1804.5390
+problem7  1491.0936
+problem8  1835.3881
+problem9  1789.9925
+
+
+T9R3
+航段数(不包含泊位) 2
+船舶数量： 30
+problem0  2800.9898
+problem1  4425.8317
+problem2  3195.3128
+problem3  4620.9491
+problem4  4124.3049
+problem5  4230.4551
+problem6  5082.6238
+problem7  3762.2988
+problem8  4098.2103
+problem9  3419.6101
+
+
+T9R4
+航段数(不包含泊位) 2
+船舶数量： 20
+problem0  801.9521
+problem1  608.5478
+problem2  753.6536
+problem3  634.5301
+problem4  711.3366
+problem5  1073.4279
+problem6  636.9278
+problem7  574.4619
+problem8  1107.5454
+problem9  826.4154
+
+
+T9R5
+航段数(不包含泊位) 2
+船舶数量： 30
+problem0  1901.5660
+problem1  2320.9406
+problem2  1859.6238
+problem3  2710.0322
+problem4  1543.2939
+problem5  2566.1534
+problem6  2127.6622
+problem7  1852.9689
+problem8  2475.8280
+problem9  1592.7129
+
+
+T9R6
+航段数(不包含泊位) 3
+船舶数量： 10
+problem0  320.1963
+problem1  246.7075
+problem2  379.4759
+problem3  341.4508
+problem4  286.2675
+problem5  453.3836
+problem6  277.3063
+problem7  238.2861
+problem8  328.4463
+problem9  334.9612
+
+
+T9R7
+航段数(不包含泊位) 3
+船舶数量： 20
+problem0  1823.3372
+problem1  2152.3399
+problem2  1802.4420
+problem3  1552.1782
+problem4  2073.4223
+problem5  1659.9128
+problem6  2037.5451
+problem7  1794.0182
+problem8  2014.1005
+problem9  2119.9837
+
+
+T9R8
+航段数(不包含泊位) 3
+船舶数量： 30
+problem0  3529.9380
+problem1  4628.1565
+problem2  3903.4865
+problem3  4039.5994
+problem4  5164.9744
+problem5  4796.2573
+problem6  4256.1794
+problem7  5607.0460
+problem8  4169.8661
+problem9  4123.9093
+
+
+T9R9
+航段数(不包含泊位) 3
+船舶数量： 20
+problem0  571.1984
+problem1  757.4694
+problem2  705.3007
+problem3  741.5877
+problem4  1010.7927
+problem5  1023.4415
+problem6  785.7971
+problem7  665.3699
+problem8  838.6903
+problem9  885.8123
+
+
+T9R10
+航段数(不包含泊位) 3
+船舶数量： 30
+problem0  2806.8940
+problem1  2434.1929
+problem2  2348.5428
+problem3  2026.1616
+problem4  1971.2627
+problem5  2399.8309
+problem6  1744.2170
+problem7  1807.9371
+problem8  1923.2001
+problem9  2053.8085
+
+
+T9R11
+航段数(不包含泊位) 4
+船舶数量： 10
+problem0  410.0790
+problem1  273.4360
+problem2  196.8157
+problem3  276.2758
+problem4  291.0954
+problem5  394.5973
+problem6  260.1729
+problem7  277.4433
+problem8  205.5186
+problem9  115.4212
+
+
+T9R12
+航段数(不包含泊位) 4
+船舶数量： 20
+problem0  1992.9995
+problem1  1663.5172
+problem2  1346.2617
+problem3  1499.7914
+problem4  1796.0272
+problem5  1481.9029
+problem6  1514.5556
+problem7  1479.8675
+problem8  1602.6953
+problem9  1547.0007
+
+
+T9R13
+航段数(不包含泊位) 4
+船舶数量： 30
+problem0  4572.3556
+problem1  4627.1464
+problem2  4295.1962
+problem3  2512.3852
+problem4  3896.9381
+problem5  3819.1895
+problem6  3852.3386
+problem7  3219.4779
+problem8  3791.8326
+problem9  3269.2893
+
+
+T9R14
+航段数(不包含泊位) 4
+船舶数量： 20
+problem0  893.3293
+problem1  526.3598
+problem2  747.4719
+problem3  958.3524
+problem4  883.3322
+problem5  623.6496
+problem6  732.2710
+problem7  584.9602
+problem8  872.6385
+problem9  736.5092
+
+
+T9R15
+航段数(不包含泊位) 4
+船舶数量： 30
+problem0  1609.2585
+problem1  1689.5542
+problem2  2406.7780
+problem3  2001.1070
+problem4  1600.2144
+problem5  2262.4071
+problem6  1903.8126
+problem7  2323.6246
+problem8  2412.6814
+problem9  1683.8592
+
+

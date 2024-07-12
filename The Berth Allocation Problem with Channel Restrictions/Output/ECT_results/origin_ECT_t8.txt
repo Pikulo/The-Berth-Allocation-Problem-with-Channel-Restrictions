@@ -1,0 +1,130 @@
+T8R1X
+problem1  3357.170
+problem2  3539.400
+problem3  3766.620
+problem4  3669.900
+problem5  3238.370
+problem6  3512.180
+problem7  3430.870
+problem8  3572.720
+problem9  3191.560
+problem10 3051.490
+
+
+T8R2X
+problem1  2501.550
+problem2  2700.210
+problem3  3166.490
+problem4  3053.510
+problem5  2409.710
+problem6  3111.440
+problem7  2803.970
+problem8  2453.110
+problem9  2413.930
+problem10 2444.940
+
+
+T8R3X
+problem1  2158.950
+problem2  2242.320
+problem3  2322.590
+problem4  2605.960
+problem5  1852.730
+problem6  2296.910
+problem7  2313.150
+problem8  2264.530
+problem9  2261.890
+problem10 2057.090
+
+
+T8R4X
+problem1  1985.670
+problem2  1987.820
+problem3  2104.310
+problem4  2311.700
+problem5  1755.850
+problem6  2231.040
+problem7  1919.080
+problem8  2004.360
+problem9  1906.830
+problem10 1815.670
+
+
+T8R5X
+problem1  1938.800
+problem2  1960.410
+problem3  2064.630
+problem4  2304.460
+problem5  1745.760
+problem6  2168.010
+problem7  1871.630
+problem8  1982.770
+problem9  1901.040
+problem10 1774.550
+
+
+T8R6X
+problem1  1324.460
+problem2  1210.450
+problem3  1333.800
+problem4  1462.890
+problem5  1306.150
+problem6  1293.560
+problem7  1335.960
+problem8  1400.310
+problem9  1512.610
+problem10 1296.660
+
+
+T8R7X
+problem1  1565.460
+problem2  1077.500
+problem3  1081.140
+problem4  1270.510
+problem5  1325.640
+problem6  1254.740
+problem7  997.024
+problem8  1301.620
+problem9  939.031
+problem10 1214.300
+
+
+T8R8X
+problem1  1026.930
+problem2  902.037
+problem3  1008.670
+problem4  1184.790
+problem5  977.655
+problem6  1094.530
+problem7  778.423
+problem8  869.794
+problem9  832.066
+problem10 984.548
+
+
+T8R9X
+problem1  794.848
+problem2  781.549
+problem3  754.261
+problem4  764.917
+problem5  689.079
+problem6  717.632
+problem7  744.257
+problem8  732.326
+problem9  780.238
+problem10 703.309
+
+
+T8R10X
+problem1  748.129
+problem2  697.947
+problem3  719.363
+problem4  744.737
+problem5  661.813
+problem6  702.301
+problem7  736.593
+problem8  688.495
+problem9  726.050
+problem10 685.709
+
+
